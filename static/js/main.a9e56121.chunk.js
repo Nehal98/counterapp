@@ -1,0 +1,2 @@
+(this.webpackJsonpcounterapp=this.webpackJsonpcounterapp||[]).push([[0],{10:function(t,e,n){},5:function(t,e,n){"use strict";n.r(e);var c=n(4),r=n(1),o=n(3),s=n.n(o),i=(n(10),n(0));function u(){var t=Object(r.useState)(0),e=Object(c.a)(t,2),n=e[0],o=e[1];return Object(i.jsxs)("div",{children:[Object(i.jsx)("p",{children:n}),Object(i.jsx)("button",{onClick:function(){o(n+1)},children:"Increment"})]})}var a=Object(i.jsx)(u,{});s.a.render(a,document.getElementById("root"))}},[[5,1,2]]]);
+//# sourceMappingURL=main.a9e56121.chunk.js.map
