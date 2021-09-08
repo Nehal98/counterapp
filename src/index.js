@@ -8,9 +8,15 @@ function Counter() {
   function increment() {
     setCounter(counter+1);
   }
-  return <div>
+
+  function decrement() {
+    setCounter(counter-1);
+  }
+
+  return <div class="item">
   <p>{counter}</p>
   <button onClick={increment}>Increment</button>
+  <button onClick={decrement}>Decrement</button>
   </div>;
 }
 
